@@ -142,28 +142,34 @@ Features:
 
 ## Technology Stack
 
-Frontend
-React • Next.js • TailwindCSS
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
-Backend
-Node.js • Express • FastAPI
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
 
-Databases
-MongoDB • PostgreSQL • MySQL
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+</p>
 
-Infrastructure
-AWS • Redis • Docker
+### Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=aws,redis,docker" />
+</p>
+
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -178,18 +184,22 @@ AWS • Redis • Docker
 
 ## Contact
 
-LinkedIn
-https://www.linkedin.com/in/ameen-mohammedak/
+<p>
 
-Email
-[ameen@zuvany.com](mailto:ameen@zuvany.com)
+<a href="https://www.linkedin.com/in/ameen-mohammedak/">
+<img src="https://img.shields.io/badge/LinkedIn-Ameen%20Mohammed-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-X (Twitter)
-https://x.com/ameenmohammedak
+<a href="mailto:ameen@zuvany.com">
+<img src="https://img.shields.io/badge/Email-ameen@zuvany.com-red?style=for-the-badge&logo=gmail">
+</a>
 
-Instagram
-https://www.instagram.com/ameenmohammedak/
+<a href="https://x.com/ameenmohammedak">
+<img src="https://img.shields.io/badge/X-@ameenmohammedak-black?style=for-the-badge&logo=x">
+</a>
 
----
+<a href="https://www.instagram.com/ameenmohammedak/">
+<img src="https://img.shields.io/badge/Instagram-ameenmohammedak-purple?style=for-the-badge&logo=instagram">
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:4f46e5&height=120&section=footer"/>
+</p>
