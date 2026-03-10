@@ -165,11 +165,10 @@ Features:
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ameenmohammed1/github-stats-transparent/output/generated/overview.svg" alt="Bodhi's GitHub stats" /> 
-  <img src="https://raw.githubusercontent.com/Ameenmohammed1/github-stats-transparent/output/generated/languages.svg" alt="Bodhi's GitHub languages" />
+<img src="/github-metrics.svg"/>
 </p>
 
 ---
