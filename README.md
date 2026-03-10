@@ -1,194 +1,155 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:4f46e5&height=220&section=header&text=Ameen%20Mohammed&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-
-<h1 align="center">Hey there! I'm Ameen Mohammed 👋</h1>
-
-<p align="center">
-AI Engineer • SaaS Builder • Founder
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Engineer;SaaS+Builder;Startup+Founder;Building+AI+Products"/>
+</h1>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/AI%20Engineer-black?style=flat&logo=openai"></a>
-  <a href="#"><img src="https://img.shields.io/badge/SaaS%20Builder-blue?style=flat&logo=vercel"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Startup%20Founder-purple?style=flat&logo=rocket"></a>
+
+<a href="#"><img src="https://img.shields.io/badge/AI%20Engineer-000000?style=for-the-badge&logo=openai"></a>
+<a href="#"><img src="https://img.shields.io/badge/SaaS%20Builder-6366F1?style=for-the-badge&logo=vercel"></a>
+<a href="#"><img src="https://img.shields.io/badge/Startup%20Founder-purple?style=for-the-badge&logo=rocket"></a>
+
 </p>
 
 ---
 
 # 🚀 About Me
 
-I'm a **software engineer and AI builder focused on creating real-world SaaS products.**
+I'm **Ameen Mohammed**, a software engineer focused on building **AI-powered SaaS products and scalable web systems**.
 
-I love building systems where **AI meets automation, sales, and productivity.**  
-Most of my work focuses on **AI agents, SaaS platforms, developer tools, and scalable web applications.**
+I specialize in combining **AI, automation, and modern web architectures** to build tools that help businesses grow.
 
-My goal is simple:
+Currently focused on building **AI agents, SaaS platforms, and developer tools.**
 
-> Build products that help businesses automate work and grow faster using AI.
-
----
-
-# 🧠 What I Build
-
-### 🤖 AI Products
-- AI Sales Agents
-- AI Customer Support Bots
-- AI-powered CMS systems
-- AI workflow automation tools
-
-### 🌐 Web Platforms
-- SaaS platforms
-- Ecommerce websites
-- Marketplace platforms
-- Headless CMS websites
-
-### ⚙️ Developer Systems
-- API architectures
-- AI integrations
-- CMS infrastructures
-- automation workflows
+> My mission: build products where **AI converts problems into automation.**
 
 ---
 
-# 🏢 Main Startup
+# 🧠 Main Startup
 
 ## 🚀 Zuvani
 
-**Zuvani** is an AI-powered platform designed to turn website visitors into **qualified leads and booked meetings.**
+**Zuvani** is an AI platform designed to convert website visitors into **qualified leads and booked meetings.**
 
 ### Core Features
 
-- AI Website Chat Agent  
-- Lead Capture & Qualification  
-- Smart Booking System  
-- Automated Workflows  
-- Customer Insights & Analytics  
-- CRM Integrations
+• AI Website Chat Assistant  
+• Lead Capture & Qualification  
+• Meeting Booking Automation  
+• Smart Workflows  
+• Customer Analytics  
+• CRM Integrations  
 
 ### Products
 
 **Zuvani AI Agent**
 
-- Website AI assistant
-- Lead qualification
-- Sales automation
-- Meeting booking
+- AI chat assistant
+- lead qualification
+- sales automation
+- booking system
 
 **Zuvani CRM**
 
-- Contacts
-- Pipelines
-- Tasks
-- Team roles
-
-Goal:
-
-> Convert website traffic → leads → customers
+- contact management
+- pipelines
+- tasks
+- team roles
 
 ---
 
-# 🧩 Projects I've Built
+# 🧩 Projects
 
 ### 🤖 Zuvani
-AI sales & customer enquiry automation platform.
+AI sales automation platform for websites.
 
 ### 🛒 Ecommerce Platforms
-Custom ecommerce systems with modern tech stacks.
-
-### 🧠 AI CMS
-AI-powered CMS system for intelligent content generation and management.
+Modern ecommerce systems built using scalable web architecture.
 
 ### 🌐 Payload CMS Websites
-Modern headless CMS websites using Payload + Next.js.
+Headless CMS websites built with **Payload CMS + Next.js**.
 
 ### 🎓 Consulting Marketplace
-A professional **consulting marketplace platform similar to Topmate** for booking experts.
+Professional consulting marketplace platform similar to **Topmate**.
+
+### 🧠 AI CMS
+AI-powered CMS platform for intelligent content workflows.
 
 ---
 
-# 🧰 Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 
-React
-Next.js
-TailwindCSS
-TypeScript
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
 
+---
 
 ### Backend
 
-Node.js
-Fastify
-Express
-REST APIs
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
+![Fastify](https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
+---
 
 ### AI / ML
 
-Python
-FastAPI
-LLM APIs
-AI Agents
-NLP Systems
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![OpenAI](https://img.shields.io/badge/LLM%20APIs-black?style=for-the-badge&logo=openai)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-purple?style=for-the-badge)
 
+---
 
 ### Databases
 
-PostgreSQL
-MongoDB
-Redis
-
-
-### Dev & Cloud
-
-Docker
-AWS
-Vercel
-GitHub Actions
-
+![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 📺 Content & Teaching
+# 📈 Contribution Graph
 
-I also teach **web development and software engineering**.
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+</p>
 
-Topics I cover:
+---
+
+# 📺 Content
+
+I also teach **web development and AI engineering**.
+
+Topics:
 
 - Web Development
-- SaaS Building
+- SaaS Architecture
 - AI Engineering
-- Developer Career
+- Developer Growth
 
-YouTube Channel:
-
-**Future Beets**
+YouTube: **Future Beets**
 
 ---
 
-# 🔭 Current Focus
+# 🤝 Connect
 
-Currently building:
-
-- AI SaaS products
-- AI agents for sales automation
-- developer tools
-- scalable SaaS architectures
-
----
-
-# 🤝 Let's Connect
-
-If you're building **AI, SaaS, or startups**, let's connect.
+If you're building **AI startups, SaaS platforms, or developer tools**, feel free to connect.
 
 - LinkedIn
 - Twitter
@@ -197,4 +158,6 @@ If you're building **AI, SaaS, or startups**, let's connect.
 
 ---
 
-⭐ If you like my projects, consider **starring my repositories**.
+⭐ If you like my work, consider **starring my repositories.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:4f46e5&height=120&section=footer"/>
