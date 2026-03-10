@@ -1,130 +1,175 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:4f46e5&height=220&section=header&text=Ameen%20Mohammed&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:4f46e5&height=230&section=header&text=Ameen%20Mohammed%20AK&fontSize=42&fontColor=ffffff"/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Engineer;SaaS+Builder;Startup+Founder;Building+AI+Products"/>
-</h1>
+<h1 align="center">Software Engineer • AI Agent Engineer • Product Builder</h1>
 
 <p align="center">
+Building AI systems, SaaS platforms, and scalable web applications.
+</p>
 
-<a href="#"><img src="https://img.shields.io/badge/AI%20Engineer-000000?style=for-the-badge&logo=openai"></a>
-<a href="#"><img src="https://img.shields.io/badge/SaaS%20Builder-6366F1?style=for-the-badge&logo=vercel"></a>
-<a href="#"><img src="https://img.shields.io/badge/Startup%20Founder-purple?style=for-the-badge&logo=rocket"></a>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&color=6366F1&center=true&vCenter=true&width=700&lines=AI+Engineer;SaaS+Architect;Startup+Product+Builder;Agentic+AI+Systems"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-I'm **Ameen Mohammed**, a software engineer focused on building **AI-powered SaaS products and scalable web systems**.
+I’m **Ameen Mohammed**, a **Software Engineer and AI Agent Engineer** focused on building real-world software products.
 
-I specialize in combining **AI, automation, and modern web architectures** to build tools that help businesses grow.
+I design and build:
 
-Currently focused on building **AI agents, SaaS platforms, and developer tools.**
+• AI-powered SaaS platforms
+• intelligent automation systems
+• scalable web architectures
+• marketplaces and CMS systems
 
-> My mission: build products where **AI converts problems into automation.**
-
----
-
-# 🧠 Main Startup
-
-## 🚀 Zuvani
-
-**Zuvani** is an AI platform designed to convert website visitors into **qualified leads and booked meetings.**
-
-### Core Features
-
-• AI Website Chat Assistant  
-• Lead Capture & Qualification  
-• Meeting Booking Automation  
-• Smart Workflows  
-• Customer Analytics  
-• CRM Integrations  
-
-### Products
-
-**Zuvani AI Agent**
-
-- AI chat assistant
-- lead qualification
-- sales automation
-- booking system
-
-**Zuvani CRM**
-
-- contact management
-- pipelines
-- tasks
-- team roles
+I started coding in **8th standard** and now build **AI-driven software products and platforms**.
 
 ---
 
-# 🧩 Projects
+# 🧠 Major Products
 
-### 🤖 Zuvani
-AI sales automation platform for websites.
+## 🤖 Zuvany — AI Customer Support & Sales Agent
 
-### 🛒 Ecommerce Platforms
-Modern ecommerce systems built using scalable web architecture.
+Zuvany is an **AI platform that helps businesses automate customer interactions and capture leads through intelligent agents.**
 
-### 🌐 Payload CMS Websites
-Headless CMS websites built with **Payload CMS + Next.js**.
+Businesses can deploy AI assistants on websites to:
 
-### 🎓 Consulting Marketplace
-Professional consulting marketplace platform similar to **Topmate**.
+• answer customer questions
+• capture leads
+• automate workflows
+• convert visitors into customers
 
-### 🧠 AI CMS
-AI-powered CMS platform for intelligent content workflows.
+Tech
+
+Next.js • React • Node.js • Express • Redis • MongoDB • AWS • Gemini
 
 ---
 
-# 🛠 Tech Stack
+## 🧠 AI CMS — AI Website CMS Generator
+
+AI CMS is a **next-generation CMS platform powered by AI**.
+
+Users can create a **complete CMS website in minutes**.
+
+Workflow
+
+1️⃣ Enter website idea
+or
+2️⃣ Paste existing website URL
+
+AI automatically generates:
+
+• CMS structure
+• admin dashboard
+• content collections
+• website pages
+
+Users can even modify design by **talking to AI**.
+
+---
+
+## 🏥 Melhorme — Clinic Management System
+
+Healthcare management platform designed for **multi-branch wellness clinics**.
+
+Roles
+
+• Patients
+• Doctors
+• Staff
+• Admin
+
+Features
+
+• appointment booking
+• prescription management
+• patient medical records
+• clinic performance reports
+• role-based access control
+
+---
+
+## 📅 Appoim — Professional Consulting Marketplace
+
+Appoim is a **consulting marketplace similar to Topmate**.
+
+Professionals can list profiles and offer paid consultations.
+
+Platform capabilities
+
+• expert profile listings
+• availability scheduling
+• appointment booking
+• payments
+• consultation management
+
+---
+
+## 🛒 SME Ecommerce Platform
+
+A **MERN stack ecommerce platform designed for small and medium businesses.**
+
+Features
+
+• product catalog
+• cart & checkout
+• order management
+• inventory tracking
+• customizable storefront
+
+Tech
+
+MongoDB • Express • React • Node.js
+
+---
+
+# ⚙️ Tech Stack
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwind-css)
 
 ---
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
-![Fastify](https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
 
 ---
 
-### AI / ML
+### AI / Data
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![OpenAI](https://img.shields.io/badge/LLM%20APIs-black?style=for-the-badge&logo=openai)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-purple?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![OpenAI](https://img.shields.io/badge/AI%20Agents-black?style=for-the-badge\&logo=openai)
 
 ---
 
 ### Databases
 
-![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
@@ -132,29 +177,31 @@ AI-powered CMS platform for intelligent content workflows.
 
 ---
 
-# 📺 Content
+# 🎥 Content Creation
 
-I also teach **web development and AI engineering**.
+I also run a **YouTube channel teaching web development and software engineering**.
 
-Topics:
+Topics include:
 
-- Web Development
-- SaaS Architecture
-- AI Engineering
-- Developer Growth
+• HTML / CSS / JavaScript
+• React & MERN stack
+• Web development fundamentals
 
-YouTube: **Future Beets**
+Channel: **Future Beets**
+
+---
+
+# 🏆 Achievements
+
+🏆 First Rank – Kollam District Web Design Competition (2023)
 
 ---
 
 # 🤝 Connect
 
-If you're building **AI startups, SaaS platforms, or developer tools**, feel free to connect.
-
-- LinkedIn
-- Twitter
-- YouTube
-- Website
+LinkedIn
+YouTube
+GitHub
 
 ---
 
